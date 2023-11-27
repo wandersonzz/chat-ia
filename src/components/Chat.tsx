@@ -50,7 +50,7 @@ export default function Chat() {
 
         <CardFooter>
             <form className='w-full flex  gap-2' onSubmit={handleSubmit}>
-                <Input placeholder='How can I help you?' value={input} onChange={handleInputChange}/>
+                <Input placeholder='Como posso ajudá-lo?' value={input} onChange={handleInputChange}/>
                 <Button type='submit'>Send</Button>
             </form>
         </CardFooter>
