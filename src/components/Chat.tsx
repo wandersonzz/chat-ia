@@ -15,8 +15,8 @@ export default function Chat() {
   return (
     <Card className='w-[440px]'>
         <CardHeader>
-          <CardTitle>Chat AI</CardTitle>
-          <CardDescription>Using Vercel SDK to create a chat bot</CardDescription>
+          <CardTitle>Chat IA</CardTitle>
+          <CardDescription>Chat em desenvolvimento pela eCLICK Sistemas</CardDescription>
         </CardHeader>
         <CardContent>
             <ScrollArea className='h-[700px] w-full pr-4'>
