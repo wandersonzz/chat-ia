@@ -38,7 +38,7 @@ export default function Chat() {
                             )}
 
                             <p className='leading-relaxed'>
-                                <span className='block font-bold text-slate-700'>{message.role === 'user' ? 'Usuário' : 'AI'}</span>
+                                <span className='block font-bold text-slate-700'>{message.role === 'user' ? 'Usuário' : 'IA'}</span>
                                 {message.content}
                             </p>
                         </div>
